@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Rancho&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Comfortaa&display=swap');
+
+img.logo {
+    width: 254px;
+    position: relative;
+    top: 18px;
+}
+
+.header {
+    background: url(../images/header.jpg);
+    background-size: 826px;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 96px;
+    border-radius: 3px;
+}
+
+.font-default {
+    font-family: 'Comfortaa', cursive;
+}
+
+footer {
+    background: #f7f7f7;
+    border-radius: 5px;
+    padding: 7px;
+}
+
